@@ -1,0 +1,11 @@
+##########################
+# Unreal generated files #
+##########################
+**/Binaries
+**/Intermediate
+**/Saved
+**/DerivedDataCache
+building_escape/Content/StarterContent/
+**/xcuserdata
+contents.xcworkspacedata
+*.VC.db
